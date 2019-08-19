@@ -3,11 +3,11 @@ public class Loader
 {
     public static void main(String[] args)
     {
-        int milkAmount = 252; // ml
+        int milkAmount = 200; // ml
         int powderAmount = 500; // g
-        int eggsCount = 5; // items
+        int eggsCount = 8; // items
         int sugarAmount = 25; // g
-        int oilAmount = 11; // ml
+        int oilAmount = 45; // ml
         int appleCount = 8;
 
         //powder - 400 g, sugar - 10 g, milk - 1 l, oil - 30 ml
