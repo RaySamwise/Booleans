@@ -7,7 +7,7 @@ public class Loader
         int powderAmount = 500; // g
         int eggsCount = 8; // items
         int sugarAmount = 25; // g
-        int oilAmount = 45; // ml
+        int oilAmount = 46; // ml
         int appleCount = 8;
 
         //powder - 400 g, sugar - 10 g, milk - 1 l, oil - 30 ml
